@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666666 8.4666666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="toroid.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="15.619781"
+     inkscape:cx="21.415153"
+     inkscape:cy="14.532854"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26458333"
+       spacingy="0.26458333"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="124.02513 : -184.71769 : 1"
+       inkscape:vp_y="0 : 999.99994 : 0"
+       inkscape:vp_z="334.02514 : -184.71769 : 1"
+       inkscape:persp3d-origin="229.02514 : -234.21769 : 1"
+       id="perspective1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.3385422,-2.3115671)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.105833;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+       id="path14167"
+       sodipodi:type="arc"
+       sodipodi:cx="3.661459"
+       sodipodi:cy="7.470942"
+       sodipodi:rx="1.8799776e-15"
+       sodipodi:ry="0.13229166"
+       sodipodi:start="0.1508612"
+       sodipodi:end="3.1005535"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 4.9994721,19.698797 a 0.04647149,0.35447741 0 0 1 -0.048494,0.300669 0.04647149,0.35447741 0 0 1 -0.043882,-0.3394" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+       id="path14169"
+       sodipodi:type="arc"
+       sodipodi:cx="6.2323771"
+       sodipodi:cy="6.5832005"
+       sodipodi:rx="1.4188043"
+       sodipodi:ry="1.4203376"
+       sodipodi:start="0.1508612"
+       sodipodi:end="0.14463886"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 7.6350666,6.7966624 A 1.4188043,1.4203376 0 0 1 6.0213278,7.9877362 1.4188043,1.4203376 0 0 1 4.8290309,6.3741082 1.4188043,1.4203376 0 0 1 6.4390603,5.1780142 1.4188043,1.4203376 0 0 1 7.6363662,6.7879209"
+       transform="matrix(1,0,0.04653999,0.99891643,0,0)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.399997;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+       id="path14179"
+       sodipodi:type="arc"
+       sodipodi:cx="6.256207"
+       sodipodi:cy="6.5516987"
+       sodipodi:rx="2.9589918"
+       sodipodi:ry="2.9783275"
+       sodipodi:start="0.1508612"
+       sodipodi:end="0.14463886"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 9.1815906,6.9993104 A 2.9589918,2.9783275 0 0 1 5.8160525,9.4968911 2.9589918,2.9783275 0 0 1 3.329454,6.11325 2.9589918,2.9783275 0 0 1 6.6872559,3.6051421 2.9589918,2.9783275 0 0 1 9.184301,6.9809801"
+       transform="matrix(1,0,0.04628781,0.99892814,0,0)" />
+  </g>
+</svg>
